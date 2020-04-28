@@ -4,7 +4,7 @@ consideration aspects of making it extensible and loosely coupled
 - tests were more focused on the required logic so I skipped low level unitary tests for the developed components 
 like route handling and dependency injections , etc..
 I made all my tests as an Integration tests covering all possible scenarios as much as possible since I've more control over my InMemory collections but 
-of course in real live project low level unitary tests are essential and of course the testing code needs some refactorings and should be better .
+of course in real live project low level unitary tests are essential and of course the testing code needs some refactorings and should be better.
 
 # Technologies:
 - Java 11+ 
